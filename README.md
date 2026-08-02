@@ -1,0 +1,1 @@
+# NTI-Mean-FullStack-Summer-Internship
