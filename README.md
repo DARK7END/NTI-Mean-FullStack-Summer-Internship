@@ -1,4 +1,4 @@
-# NTI-Mean-FullStack-Summer-Internship-Tasks
+# NTI-Mean-Stack-Summer-Internship-Tasks
 
 S26 Batch 6 Group 12
 
